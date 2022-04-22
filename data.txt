@@ -1,0 +1,6 @@
+0 prakhar 12 A
+2 raman 11 C
+3 tesla 12 B
+4 arijit 3 C
+6 abc 9 d
+1 sri 12 b
