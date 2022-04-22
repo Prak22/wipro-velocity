@@ -1,0 +1,14 @@
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.exe
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.deps.json
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.runtimeconfig.json
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.runtimeconfig.dev.json
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.dll
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\bin\Debug\netcoreapp3.1\Phase1MainProject.pdb
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.csproj.AssemblyReference.cache
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.AssemblyInfoInputs.cache
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.AssemblyInfo.cs
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.csproj.CoreCompileInputs.cache
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.dll
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.pdb
+C:\Users\artyf\source\repos\wipro-velocity\FinalProj\FinalProj\obj\Debug\netcoreapp3.1\Phase1MainProject.genruntimeconfig.cache
